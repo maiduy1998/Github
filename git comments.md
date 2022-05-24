@@ -41,3 +41,4 @@ Lệnh này giúp bạn biết những gì đã được thay đổi giữa nhá
 # git branch
     Hiển thị branch có trên local
   * git checkout/git switch  branchname
+  * git branch namebranch
