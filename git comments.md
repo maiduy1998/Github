@@ -42,3 +42,7 @@ Lệnh này giúp bạn biết những gì đã được thay đổi giữa nhá
     Hiển thị branch có trên local
   * git checkout/git switch  branchname
   * git branch namebranch
+# git remote git remote add origin https://github.com/maiduy1998/Github.git
+    lệnh để tạo kết nối giữa local và repo
+  * git remote => để liệt kê các liên kết sử dụng lệnh
+  * git remote -v => Hiện thị thông tin chi tiết hơn, có thêm đường dẫn đến remote Repo
