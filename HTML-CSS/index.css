@@ -1,0 +1,44 @@
+
+.tag{
+    width: 600px;
+    height: auto;
+    
+    margin: auto;
+    display: flex;
+   
+
+}
+
+.header--1{
+    width: auto;
+    height: 148px;
+    background-color: aqua;
+    padding-left:20px;
+    padding-top: 30px;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    
+    
+}
+
+.header---2{
+    width: auto;
+    height: auto;
+   
+    background-color: rgb(170, 143, 196);
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.header__description
+{
+    width: auto;
+    height: auto;
+    background-color: rgb(28, 185, 65);
+}
+
+.header__subheading{
+    width: auto;
+    height: auto;
+    background-color: rgb(222, 173, 27);
+}
