@@ -1,3 +1,7 @@
 Đây là điểm giao giữ beta vs main 
 
+<<<<<<< HEAD
 chuyển nhánh beta
+=======
+chỉnh sửa trên nhánh b1
+>>>>>>> beta
