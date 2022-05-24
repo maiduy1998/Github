@@ -46,3 +46,4 @@ Lệnh này giúp bạn biết những gì đã được thay đổi giữa nhá
     lệnh để tạo kết nối giữa local và repo
   * git remote => để liệt kê các liên kết sử dụng lệnh
   * git remote -v => Hiện thị thông tin chi tiết hơn, có thêm đường dẫn đến remote Repo
+  * git remote show origin => xem remote origin
